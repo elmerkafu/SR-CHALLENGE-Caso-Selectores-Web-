@@ -1,0 +1,6 @@
+document.querySelector("#usp_form > div:nth-child(3) > div:nth-child(1) > fieldset > input").value="kafu Paucarpura"
+document.querySelector("#usp_form > div:nth-child(3) > div:nth-child(2) > fieldset > input").value="paucarpura5@gmail.com"
+document.querySelector("#usp_form > fieldset.usp-title > input").value="SR Challenge"
+document.querySelector("#usp_form > div.input_fields_wrap > fieldset > input").value="https://apprater.net/add/"
+document.querySelector("#usp_form > fieldset.usp-content > textarea").textContent="Realizacion de reto para practicante"
+document.querySelector("#user-submitted-post").click()
